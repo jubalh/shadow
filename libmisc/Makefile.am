@@ -17,9 +17,11 @@ libmisc_la_SOURCES = \
 	age.c \
 	agetpass.c \
 	alloc.c \
+	alloc.h \
 	audit_help.c \
 	basename.c \
 	bit.c \
+	bit.h \
 	chkname.c \
 	chkname.h \
 	chowndir.c \
